@@ -1,0 +1,2 @@
+fastapi-authlib==0.0.4
+fastapi==0.112.1
